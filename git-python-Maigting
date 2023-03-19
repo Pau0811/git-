@@ -1,0 +1,17 @@
+// My Personal Info //
+fname = input("Enter your full name:")
+adrs = input("Enter your address:")
+bday = input("When is your bday:")
+
+//My Educational Background//
+college = input("Enter your college, course, year and section")
+
+//My Hobbies//
+hobbies("Enter your hobbies;")
+
+print("")
+print("My name is",fname)
+print("Im from",adrs)
+print("My Birthday is on",bday)
+print("My college,course,year, and section",college)
+print("My hobbies are playing music, watching movies, playing guitar, singing and dancing",hobbies)
